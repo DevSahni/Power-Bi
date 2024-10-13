@@ -49,7 +49,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/sales-data-dashboard.git
+git clone https://github.com/DevSahni/sales-data-dashboard.git
 Open the Power BI file:
 
 The file sales-dashboard.pbix contains the entire project.
